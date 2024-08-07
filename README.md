@@ -1,0 +1,1 @@
+# PayPay-for-Windows
