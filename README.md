@@ -10,11 +10,10 @@
 </p>
 
 ## ✨ Features
----
 - 🌟 **Stylish UI**: Experience a sleek and modern interface.
-- 💰 **Retrieve PayPay Balance**: Check your PayPay balance easily.
+- 💰 **Retrieve PayPay Balance**: Easily check your PayPay balance.
 - 💸 **Send Money**: Transfer funds quickly and securely.
-- 🔗 **Create Payment Links**: Generate PayPay payment links effortlessly.
+- 🔗 **Create Payment Links**: Effortlessly generate PayPay payment links.
 - 🔍 **Verify Payment Links**: Ensure your payment links are correct.
 - ❌ **Cancel/Decline Links**: Manage and decline payment links as needed.
 - 📜 **Transaction History**: View and track your transaction history.
@@ -22,9 +21,19 @@
 - ❄️ **Account Status**: Check if your account is frozen.
 
 ## ⚠️ Note
----
 - After logging in, please restart the application once.
+- **Analysis** and resale of the source code, even partially, are prohibited.
+- Reselling **tools** is allowed.
+- To change the theme, please download the font listed in the Theme section.
+
+## Theme
+- Kawaii
+  - [Download Here](https://atelierkotatu.booth.pm/items/3308018?registration=1)
+
+## Latest Version
+- Windows Version: 1.1.0
+- MacOS Version: None
+- Linux Version: None
 
 ## 💖 Sponsors
----
 - `Kanimiso0`
