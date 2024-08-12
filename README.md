@@ -31,7 +31,7 @@
   - [Download Here](https://atelierkotatu.booth.pm/items/3308018?registration=1)
 
 ## Latest Version
-- Windows Version: 1.1.0
+- Windows Version: 1.2.0
 - MacOS Version: None
 - Linux Version: None
 
